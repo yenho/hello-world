@@ -44,3 +44,8 @@ docker run -d --name=netdata \
   --security-opt apparmor=unconfined \
   netdata/netdata
 ```
+
+ > Ref (docker)
+```shell 
+https://docs.netdata.cloud/packaging/docker/#install-netdata-with-docker
+```
