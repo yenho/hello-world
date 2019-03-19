@@ -27,7 +27,7 @@ sudo apt-get install build-essential zlib1g-dev gcc make git autoconf autogen au
 Linux 64bit installation: bash <(curl -Ss https://my-netdata.io/kickstart-static64.sh)
 ```
 
-Netdata Docker
+ * Netdata Docker
 ```shell 
 docker run -d --name=netdata \
   -p 19999:19999 \
