@@ -27,6 +27,12 @@ sudo apt-get install build-essential zlib1g-dev gcc make git autoconf autogen au
 Linux 64bit installation: bash <(curl -Ss https://my-netdata.io/kickstart-static64.sh)
 ```
 
+ * Alternative from L64
+```shell 
+git clone https://github.com/firehol/netdata.git --depth=1 ~/netdata
+sudo ./netdata-installer.sh
+```
+
  * Netdata Docker
 ```shell 
 docker run -d --name=netdata \
