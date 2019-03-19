@@ -21,6 +21,9 @@ Netdata
  * Pre
 ```shell 
 sudo apt-get install build-essential zlib1g-dev gcc make git autoconf autogen automake pkg-config
+ ** Alternative for git clone method
+sudo apt-get install zlib1g-dev uuid-dev libmnl-dev gcc make autoconf autoconf-archive autogen automake pkg-config curl
+sudo apt-get install python python-yaml python-mysqldb python-psycopg2 nodejs lm-sensors netcat
 ```
 
 ```shell 
