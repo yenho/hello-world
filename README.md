@@ -14,7 +14,15 @@ cmake -DLLVM_DIR=/usr/lib/llvm-3.9/lib/cmake/llvm ..
 From: https://github.com/Microsoft/ELL/blob/master/INSTALL-Ubuntu.md
 and https://github.com/Microsoft/ELL/blob/master/INSTALL-Mac.md
 
+--
+
 Netdata
+
+ * Pre
+```shell 
+sudo apt-get install build-essential zlib1g-dev gcc make git autoconf autogen automake pkg-config
+```
+
 ```shell 
 Linux 64bit installation: bash <(curl -Ss https://my-netdata.io/kickstart-static64.sh)
 ```
