@@ -2,6 +2,15 @@
  > Ref (maxwells equaqtions)
 https://medium.com/dialogue-and-discourse/maxwells-equations-7484212839b1
 
+```shell
+Proofs are the bedrock of mathematics. It’s how we know that every rule and theorem we use holds true. Without the logical rigor of proofs, math would be a bunch of wishy-washy assumptions. Proofs come in all shapes and sizes. Some are long and arduous discernible by very few, others stand on such fundamental logic most anyone could reproduce them with a little motivation.
+
+One such classic proof of number theory and analysis is demonstrating that irrational numbers exist, most commonly that the square root of 2 is irrational. Now there are many ways to prove this result, and I’ve talked about this before…but that was before I encountered Tennenbaum’s proof. A magnificently clever, yet straight-forward proof of irrationality. Using a basic understanding of geometry we can logically show that square root 2 is irrational. It’s quite a fun little proof!
+
+Interestingly, this proof has been largely overlooked historically. Perhaps that’s because our problem is an ancient problem that’s been solved many times over, yet this proof wasn’t concocted until the mid-twentieth century by American mathematician Stanley Tennenbaum. The proof was overlooked until the 1990’s when a past student of Tennenbaum’s published it in a book on the power of mathematics. Finally, the proof began to be appreciated for its beauty and simplicity. Watch or read on!!
+ > Ref
+https://medium.com/i-math/a-beautiful-geometric-proof-a8275c981e1b
+```
 ---
 
 In MS ELL,
