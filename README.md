@@ -3,7 +3,7 @@
 https://medium.com/dialogue-and-discourse/maxwells-equations-7484212839b1
 
 ---
- * Math Proofs
+ * Tennenbaum’s Proof that Square Root 2 is Irrational
 
 ```shell
 Proofs are the bedrock of mathematics. It’s how we know that every rule and theorem we use holds true. Without the logical rigor of proofs, math would be a bunch of wishy-washy assumptions. Proofs come in all shapes and sizes. Some are long and arduous discernible by very few, others stand on such fundamental logic most anyone could reproduce them with a little motivation.
