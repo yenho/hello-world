@@ -1,4 +1,9 @@
 
+ > Ref (maxwells equaqtions)
+https://medium.com/dialogue-and-discourse/maxwells-equations-7484212839b1
+
+---
+
 In MS ELL,
 
 1. ubuntu 18.04, cannot be compiled even with the below command --
@@ -65,3 +70,7 @@ $ sudo sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sourc
 $ sudo apt-get update
 $ sudo apt-get install jenkins
 ```
+
+---
+
+
