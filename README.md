@@ -1,4 +1,10 @@
 
+
+ > Ref (binomial theorem)
+https://medium.com/datadriveninvestor/binomial-theorem-cecfb0224183
+
+---
+
  > Ref (maxwells equaqtions)
 https://medium.com/dialogue-and-discourse/maxwells-equations-7484212839b1
 
