@@ -1,4 +1,12 @@
 
+ * Gaussian mixtures and EM algorithm 
+
+```shell
+http://statweb.stanford.edu/~tibs/stat315a/
+```
+
+---
+
  * Ref QEMU Linux
 
 ```shell
