@@ -1,4 +1,14 @@
 
+ * util: xxd
+
+```shell
+$ xxd -i xxx.bin > xxx.h
+
+https://stackoverflow.com/questions/8707183/script-tool-to-convert-file-to-c-c-source-code-array
+```
+
+---
+
  * Gaussian mixtures and EM algorithm 
 
 ```shell
