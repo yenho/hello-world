@@ -1,4 +1,12 @@
 
+ * Ref QEMU Linux
+
+```shell
+https://github.com/cirosantilli/linux-cheat
+https://github.com/cirosantilli/linux-kernel-module-cheat
+```
+
+---
 
  > Ref (binomial theorem)
 https://medium.com/datadriveninvestor/binomial-theorem-cecfb0224183
