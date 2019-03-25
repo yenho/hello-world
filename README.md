@@ -1,4 +1,15 @@
 
+https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5
+
+---
+ * RISC-V info: 
+
+```shell
+https://hackmd.io/s/ryHaBkrOE
+http://wiki.csie.ncku.edu.tw/linux/schedule
+```
+---
+
  * util: xxd
 
 ```shell
