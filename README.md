@@ -11,6 +11,7 @@ sudo fstrim -v /
 ```
 
 https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5
+https://askubuntu.com/questions/87035/how-to-check-hard-disk-performance
 
 ---
  * RISC-V info: 
