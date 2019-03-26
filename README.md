@@ -4,6 +4,7 @@
 
 ```shell
 wget -O /tmp/test_trim.sh "https://sites.google.com/site/lightrush/random-1/checkiftrimonext4isenabledandworking/test_trim.sh?attredirects=0&d=1"
+sudo fstrim -v /
 ```
 
 https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5
