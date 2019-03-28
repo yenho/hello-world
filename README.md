@@ -1,4 +1,9 @@
 
+ * Qemu-MIPS
+https://blahcat.github.io/2017/07/14/building-a-debian-stretch-qemu-image-for-mipsel/
+
+---
+
  * Photo
 
 https://www.pexels.com/photo/adventure-climb-clouds-daylight-371400/
