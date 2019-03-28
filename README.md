@@ -1,4 +1,11 @@
 
+ * iTerm zsh
+
+https://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98c#57a5
+https://medium.com/the-code-review/docker-copy-dockerfile-best-practices-503704bee69f
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#add-or-copy
+
+---
 
  * Linux trim:
 
