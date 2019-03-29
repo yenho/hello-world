@@ -1,9 +1,19 @@
 
  * Mirror terminal for demo
 
+Method 1
 ```shell
 TTY-1 (demo): mkfifo pipe; script -f pipe
 TTY-2 (client): cat pipe
+```
+
+Method 2
+```shell
+script -t 2> timing.log -a output.session
+// use "exit" to end of the demo
+
+scriptreplay timing.log output.session
+
 ```
 ref: http://fichugh.blogspot.com/2017/03/linuxbash-terminal.html#more
 
