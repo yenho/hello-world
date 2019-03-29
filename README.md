@@ -1,4 +1,14 @@
 
+ * i386-ubunutu
+
+```shell
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
+```
+
+---
+
  * Qemu-MIPS
 https://blahcat.github.io/2017/07/14/building-a-debian-stretch-qemu-image-for-mipsel/
 
