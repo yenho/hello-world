@@ -1,4 +1,14 @@
 
+ * Mirror terminal for demo
+
+```shell
+TTY-1 (demo): mkfifo pipe; script -f pipe
+TTY-2 (client): cat pipe
+```
+ref: http://fichugh.blogspot.com/2017/03/linuxbash-terminal.html#more
+
+---
+
  * i386-ubunutu
 
 ```shell
