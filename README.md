@@ -1,4 +1,9 @@
 
+ * Time series visualizations
+https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af
+
+---
+
  * Mirror terminal for demo
 
 Method 1
