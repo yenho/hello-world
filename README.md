@@ -1,4 +1,20 @@
 
+git server
+
+1. web (via http) or ssh(non-http)
+
+2. git user account create
+
+3. setup daemon
+
+4. setup key
+
+```shell
+$ git fetch 
+```
+
+---
+
  * Time series visualizations
 https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af
 
