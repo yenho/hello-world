@@ -1,5 +1,16 @@
 
-git server
+ * Add GIT SSH key
+
+http://wiki.csie.ncku.edu.tw/github
+
+```shell
+$ ssh-keygen -t rsa -C "your_email@example.com"
+$ ssh -T git@github.com
+```
+
+---
+
+ * git server
 
 1. web (via http) or ssh(non-http)
 
