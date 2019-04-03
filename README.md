@@ -5,10 +5,10 @@
  Step 1: Use ssh-keygen to generate pubkey
 
 ```shell
-mkdir -p ~/.ssh
-chmod 700 ~/.ssh
+$ mkdir -p ~/.ssh
+$ chmod 700 ~/.ssh
 
-ssh-keygen
+$ ssh-keygen
 ```
 
 ~
@@ -33,7 +33,7 @@ The key's randomart image is:
  Step 2: Use ssh-copy-id to publish pub-key to server
 
 ```shell
-ssh-copy-id USER@HOST
+$ ssh-copy-id USER@HOST
 ```
 
  [ Linux Server ]
@@ -48,7 +48,7 @@ PubkeyAuthentication yes
 
 Restart ssh server
 ```shell
-/etc/init.d/ssh restart
+$ /etc/init.d/ssh restart
 ```
 
 ---
