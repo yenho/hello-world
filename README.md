@@ -11,6 +11,8 @@ $ chmod 700 ~/.ssh
 $ ssh-keygen
 ```
 
+
+```
 ~
 Your identification has been saved in /home/seal/.ssh/id_rsa.
 Your public key has been saved in /home/seal/.ssh/id_rsa.pub.
@@ -29,6 +31,7 @@ The key's randomart image is:
 |                 |
 +-----------------+
 
+```
 
  Step 2: Use ssh-copy-id to publish pub-key to server
 
