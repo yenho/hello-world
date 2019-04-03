@@ -12,7 +12,7 @@ $ ssh-keygen
 ```
 
 
-   Output
+ >>  Output
 ```
 ~
 Your identification has been saved in /home/seal/.ssh/id_rsa.
