@@ -1,4 +1,58 @@
 
+ * 3 steps to enable keyless ssh connection
+
+ [ Linux client ]
+ Step 1: Use ssh-keygen to generate pubkey
+
+```shell
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+
+ssh-keygen
+```
+
+~
+Your identification has been saved in /home/seal/.ssh/id_rsa.
+Your public key has been saved in /home/seal/.ssh/id_rsa.pub.
+The key fingerprint is:
+c7:61:98:72:02:91:94:db:12:96:05:9d:59:91:aa:25 seal@seal-desktop
+The key's randomart image is:
++--[ RSA 2048]----+
+|   .=O.+oo       |
+|    *.+ .o       |
+|   . +o.+ o      |
+|    E ++ o .     |
+|     =  S o      |
+|    .    .       |
+|                 |
+|                 |
+|                 |
++-----------------+
+
+
+ Step 2: Use ssh-copy-id to publish pub-key to server
+
+```shell
+ssh-copy-id USER@HOST
+```
+
+ [ Linux Server ]
+ Step 3: Set up ssh config and restart ssh
+
+Update /etc/ssh/sshd_config in Server
+
+```shell
+PasswordAuthentication no
+PubkeyAuthentication yes
+```
+
+Restart ssh server
+```shell
+/etc/init.d/ssh restart
+```
+
+---
+
 https://blog.jaycetyle.com/2018/02/github-ssh/
 
 ---
