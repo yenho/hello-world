@@ -2,7 +2,7 @@
  * 3 steps to enable keyless ssh connection
 
  [ Linux client ]
- ** Step 1: Use ssh-keygen to generate pubkey
+ > Step 1: Use ssh-keygen to generate pubkey
 
 ```shell
 $ mkdir -p ~/.ssh
@@ -34,14 +34,14 @@ The key's randomart image is:
 
 ```
 
- ** Step 2: Use ssh-copy-id to publish pub-key to server
+ > Step 2: Use ssh-copy-id to publish pub-key to server
 
 ```shell
 $ ssh-copy-id USER@HOST
 ```
 
  [ Linux Server ]
- ** Step 3: Set up ssh config and restart ssh
+ > Step 3: Set up ssh config and restart ssh
 
 Update /etc/ssh/sshd_config in Server
 
