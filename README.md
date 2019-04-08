@@ -1,4 +1,13 @@
 
+ * K8s in 5 min
+
+```
+https://itbwtalk.com/2018/11/06/k8s-in-5-minutes-for-windows-10/
+https://gist.github.com/William-Yeh
+```
+
+---
+
  * 3 steps to enable keyless ssh connection
 
  [ Linux client ]
