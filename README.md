@@ -1,4 +1,13 @@
 
+
+Is DL a dead end?
+
+```
+https://dev.to/cheetah100/is-deep-learning-a-dead-end-2i0l
+```
+
+---
+
  * K8s in 5 min
 
 ```
