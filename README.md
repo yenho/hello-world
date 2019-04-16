@@ -1,5 +1,9 @@
 
+---
+
 https://www.youtube.com/watch?v=2Zf43AhXUsI
+
+https://thenewstack.io/how-aiops-supports-a-devops-world/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190415+sysops+nl&mkt_tok=eyJpIjoiWmpaaU1ERTFZMkpoT1RGaSIsInQiOiJGMHJjdldQM3FmeFhxMnAxY25kY2YxQVlVNHIwN2tiR1VNRDZOcG9LOW52V1JOVGl4VTF6N1g0RVQ0UkNWeG1ibUZaM1UrRTlvTHpsTE5LSjNZb2JyTXNcL2NXTzI0aXhGUWx3RmRVVkp2cnFBdXIwNEx3eWRUSlBHcUpFMlp5cTEifQ%3D%3D
 
 ---
 
