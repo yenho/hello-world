@@ -1,4 +1,7 @@
 
+How to gentle dive into math behind CNN
+https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9
+
 ---
 
 https://www.youtube.com/watch?v=2Zf43AhXUsI
