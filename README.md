@@ -1,4 +1,7 @@
 
+Google Chrome Dark mode: " --force-dark-mode"
+---
+
 https://nvie.com/posts/a-successful-git-branching-model/
 
 ---
